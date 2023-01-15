@@ -51,7 +51,11 @@ body
     padding: 1em;
 }
 
+<<<<<<< HEAD
 #footer
+=======
+#footer 
+>>>>>>> footer
 {
     background: #777;
     color: white;
